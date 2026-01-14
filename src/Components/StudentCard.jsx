@@ -3,25 +3,25 @@ import PlayGround from "./PlayGround";
 function StudentCard () {
     const dataBase = [
 {
-name: "Ali",
-roll: "101",
+name: "Hassan",
+roll: "409",
 batch: "Web & App",
 favLang: "JavaScript",
 },
 {
-name: "Zain",
-roll: "102",
+name: "Ahmed Raza",
+roll: "320", 
 batch: "Web & App",
 favLang: "Python",
 },
 {
-name: "Sara",
-roll: "103",
+name: "Mudassir",
+roll: "321",
 batch: "AI",
 favLang: "Java",
 },
 {
-name: "Ahmed",
+name: "Umar",
 roll: "108",
 batch: "Cyber Security",
 favLang: "MongoDB",
